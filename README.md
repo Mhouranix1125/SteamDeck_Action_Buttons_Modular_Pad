@@ -7,3 +7,16 @@ This project is a prototype replacement for the action button flex PCB found in 
 2. There is a `User.Eco1` layer included in the design files. You must **rename this layer** to match your fabrication house’s requirements for a **stiffener layer**, so the PCB mounts properly into the flip connector on the main board.
 
 3. This must be ordered as a **flex PCB** — rigid boards will not work.
+
+4. <table>
+  <tr>
+    <td align="center">
+      <img src="images/PCB_Front.png" width="300"/><br>
+      <sub><b>Figure 1:</b> Action Button Flex - Front Side</sub>
+    </td>
+    <td align="center">
+      <img src="images/PCB_Back.png" width="300"/><br>
+      <sub><b>Figure 2:</b> Action Button Flex - Back Side</sub>
+    </td>
+  </tr>
+</table>
