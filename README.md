@@ -11,11 +11,11 @@ This project is a prototype replacement for the action button flex PCB found in 
 4. <table>
   <tr>
     <td align="center">
-      <img src="images/PCB_Front.png" width="300"/><br>
+      <img src="images/PCB_Front.png" width="1000"/><br>
       <sub><b>Figure 1:</b> Action Button Flex - Front Side</sub>
-    </td>
+    </td><br>
     <td align="center">
-      <img src="images/PCB_Back.png" width="300"/><br>
+      <img src="images/PCB_Back.png" width="1000"/><br>
       <sub><b>Figure 2:</b> Action Button Flex - Back Side</sub>
     </td>
   </tr>
