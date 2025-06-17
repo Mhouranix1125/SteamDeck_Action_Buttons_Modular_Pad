@@ -8,12 +8,14 @@ This project is a prototype replacement for the action button flex PCB found in 
 
 3. This must be ordered as a **flex PCB** — rigid boards will not work.
 
-4. <table>
+<h3 style="color:purple;"><strong>Board Images</strong></h3>
+
+<table>
   <tr>
     <td align="center">
       <img src="images/PCB_Front.png" width="1000"/><br>
       <sub><b>Figure 1:</b> Action Button Flex - Front Side</sub>
-    </td><br>
+    </td>
     <td align="center">
       <img src="images/PCB_Back.png" width="1000"/><br>
       <sub><b>Figure 2:</b> Action Button Flex - Back Side</sub>
