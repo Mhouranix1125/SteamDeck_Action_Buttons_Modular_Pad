@@ -266,7 +266,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../Clicky_Buttons_Test_0.1/",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
