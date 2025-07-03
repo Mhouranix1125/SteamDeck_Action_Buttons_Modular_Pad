@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.5,
-          "width": 2.3
+          "height": 1.6,
+          "width": 2.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -266,7 +266,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "SteamDeck_Action_Buttons_Modular_Pad_gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
